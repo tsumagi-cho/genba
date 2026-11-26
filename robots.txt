@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tsumagi-cho.github.io/genba/sitemap.xml
