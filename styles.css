@@ -228,3 +228,5 @@ body{background:var(--paper)}.site-header{background:#fffdf8f2;border-bottom:1px
 .amazon-home-note { font-size: .94rem; line-height: 1.6; margin: 0 0 1rem; }
 .prose .diy-kit li:only-child { grid-column: 1 / -1; }
 .prose .diy-kit a[rel~="sponsored"] { min-height: 44px; display: inline-flex; align-items: center; overflow-wrap: anywhere; }
+
+.edition-links{margin-top:1.5rem}.edition-links h3{font-size:1.05rem;margin:0 0 .5rem}.edition-links ul{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,19rem),1fr));gap:.3rem 1.5rem;padding:0 0 0 1.15rem;margin:0}.edition-links a{display:inline-block;padding:.4rem 0;text-underline-offset:.2em;text-decoration:underline;overflow-wrap:anywhere}
